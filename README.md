@@ -21,3 +21,8 @@ These libraries should be available in search paths of the system
 ```./OCR```
 
 ### Application 
+
+- Can run directly with tesseract or run an EAST model to first find the text area in the image and then running OCR.
+- Section of image can also be directly posted. However, its a work in progress.
+
+![Alt text](https://github.com/7Mcking/OCRonQt/blob/main/Resources/OCR.png)
